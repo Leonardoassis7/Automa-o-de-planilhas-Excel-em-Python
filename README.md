@@ -9,6 +9,7 @@ Selecionar células e ranges.
 Inserir dados e fórmulas.
 Formatar células e ranges.
 Executar macros.
+
 2. Leitura e automação de planilhas:
 
 Ler dados de células.
