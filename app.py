@@ -1,12 +1,12 @@
 import openpyxl
-#pyperclip serve para pega as informçao com pontuação do excel
+#pyperclip serve para pegar as informações com pontuação do excel
 import pyperclip
 import pyautogui
 from time import sleep
 
 #abrir a planilha 
 workbook = openpyxl.load_workbook('produtos_ficticios.xlsx')
-#como no excel so tem uma pagina que seria Produto, tenho declara essa pagina.   
+#como no excel so tem uma pagina que seria Produto, tenho declarar essa pagina.   
 sheet_produto = workbook['Produtos']
 #copiar dados da planilha de um campo e colar no campo correspondente, esse 2 é a linha que inicia excel
 for linha in sheet_produto.iter_rows(min_row=2):
