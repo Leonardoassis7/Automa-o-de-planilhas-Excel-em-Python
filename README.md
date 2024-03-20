@@ -10,8 +10,6 @@ Preenchimento de Dados: Automatização do preenchimento de células com dados e
 
 Manipulação de Formatação: Possibilidade de aplicar formatação a células, incluindo formatação de número, estilo de fonte, cor de célula, etc.
 
-Criação de Gráficos: Capacidade de criar gráficos a partir dos dados em uma planilha.
-
 Filtragem e Ordenação: Automatização da aplicação de filtros e ordenação aos dados em uma planilha.
 
 Pré-requisitos
